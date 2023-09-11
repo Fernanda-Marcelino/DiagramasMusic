@@ -12,4 +12,9 @@ Diagramas das aulas da professora Aline ( LP e DJW )
 - Diagrama de Classe Puzzle </br>
   ![DiagramaClassesLp](https://github.com/Fernanda-Marcelino/DiagramasMusic/assets/128320607/048893bf-6258-48d8-a102-dd248d886676)
 
+- Descrição Diagramas Lp
+  - Casos de uso : Ao começar o jogo as peças irão se mover de forma aleatoria e tempo começará a contar, assim o jogador deve desembaralhar as peças formando uma imagem.
+<br> </br>
+  - Classe : Quando o botão for apertado o jogo começará fazendo as peças numeradas de 1 a 9 se moverem de forma aletória em X e Y e iniciando a contagem de tempo, 
+             o jogador deve mover as peças em X e Y com o W, A, S, D para formar a imagem final.
   

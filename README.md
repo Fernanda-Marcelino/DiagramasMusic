@@ -37,7 +37,7 @@ Diagramas das aulas da professora Aline ( LP e DJW )
   ![DiagramaClassesLp](https://github.com/Fernanda-Marcelino/DiagramasMusic/assets/128320607/97ecfc04-7ec6-4027-8ee4-fe160d6fd2f8)
 
 - Descrição Diagramas Djw
-  - Casos de uso : Ao coemçar o jogo o jogador pode se mover para assim coletar as peças e quando pegar todas as peças podendo passar de fase.
+  - Casos de uso : Ao começar o jogo o jogador pode se mover para assim coletar as peças e quando pegar todas as peças podendo passar de fase.
 <br> </br>
   - Classe : Ao começar o jogo o jogador pode começar a mover seu personagem em X, Y e Z no plano, ao redor da fase há 
 alguma peças com atributos de colisão onde o persongaem ao passar por ela a coleta assim a contabilizando 
